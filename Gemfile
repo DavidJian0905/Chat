@@ -8,6 +8,7 @@ gem 'jquery-rails'
 gem 'devise'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'pg'
+gem 'redis'
 
 group :development, :test do
   gem 'byebug', platform: :mri
