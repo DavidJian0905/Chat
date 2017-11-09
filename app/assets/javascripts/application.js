@@ -1,7 +1,7 @@
 //= require jquery
 //= require jquery_ujs
-//= require cable
 //= require_tree .
+//= require cable
 
 (function() {
   $(document).on('click', '.toggle-window', function(e) {
